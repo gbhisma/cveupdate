@@ -72,7 +72,7 @@ PRODUCT_KEYWORDS_I:
 - web application
 
 PRODUCT_KEYWORDS:
-- " AEM "
+# - " AEM "
 # - Adobe AEM
 # - AdobeCQ
 # - Adobe CQ
